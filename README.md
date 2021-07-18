@@ -1,4 +1,4 @@
-### Hello, world
+### 👋 Hello, world. Im Caros Junior
 Trying to learn a little bit of everything, sometimes I do some code with JS or Python.
 
 <a href="https://www.linkedin.com/in/carlos-rog%C3%A9rio/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
