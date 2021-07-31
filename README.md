@@ -30,4 +30,4 @@ I've done some projects in the following frameworks:
 
 ---
 
-![GitHubCard](https://github-readme-stats.vercel.app/api?username=cjuniordev&show_icons=true)
+![GitHubCard](https://github-readme-stats.vercel.app/api?username=cjuniordev&show_icons=true&theme=dracula)
