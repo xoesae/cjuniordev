@@ -7,19 +7,21 @@ Trying to learn a little bit of everything, sometimes I do some code with JS or 
 
 ---
 
-- 🇧🇷 I’m brazilian boy
+- 🇧🇷 I’m brazilian
 - 👨 19 years old
-- 👨🏽‍🎓 2st period of computer engineering - UFES
+- 👨🏽‍🎓 Third period of computer engineering - UFES
 
 ---
 
 ##### What I know how to do?
 
-Basic kit webdev, Python and a little about C:
+Basic kit webdev, Laravel, Python and a little about C:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
