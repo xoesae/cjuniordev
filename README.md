@@ -8,8 +8,8 @@ Trying to learn a little bit of everything, sometimes I do some code.
 ---
 
 - 🇧🇷 I’m brazilian
-- 👨 19 years old
-- 👨🏽‍🎓 Third period of computer engineering - UFES
+- 👨 21 years old
+- 👨🏽‍🎓 Fifth period of computer engineering - UFES
 
 ---
 
