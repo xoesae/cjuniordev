@@ -9,13 +9,13 @@ Trying to learn a little bit of everything, sometimes I do some code.
 
 - 🇧🇷 I’m brazilian
 - 👨 21 years old
-- 👨🏽‍🎓 Fifth period of computer engineering - UFES
+- 👨🏽‍🎓 Computer engineering - UFES
 
 ---
 
 ##### What I know how to do?
 
-Basic kit webdev, Python and a little about C:
+Laravel, React, NodeJS, Python and a little about C:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
