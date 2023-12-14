@@ -1,4 +1,4 @@
-![image](https://github.com/xoesae/cjuniordev/assets/57464054/8c4b52db-229b-4c77-a1e7-be263bb9e2eb)### 👋 Hello, world. Im Carlos Junior
+### 👋 Hello, world. Im Carlos Junior
 Trying to learn a little bit of everything, sometimes I do some code.
 
 <a href="https://www.linkedin.com/in/carlos-rogerio"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
