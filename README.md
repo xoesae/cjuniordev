@@ -1,7 +1,7 @@
-### 👋 Hello, world. Im Carlos Junior
+![image](https://github.com/xoesae/cjuniordev/assets/57464054/8c4b52db-229b-4c77-a1e7-be263bb9e2eb)### 👋 Hello, world. Im Carlos Junior
 Trying to learn a little bit of everything, sometimes I do some code.
 
-<a href="https://www.linkedin.com/in/carlos-rog%C3%A9rio/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/carlos-rogerio"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/cjuniordev"><img alt="Twitter" src="https://img.shields.io/badge/cjuniordev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 <a href="mailto:carlosrogeriocr02@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
@@ -33,4 +33,4 @@ I've done some projects in the following frameworks:
 
 ---
 
-![GitHubCard](https://github-readme-stats.vercel.app/api?username=cjuniordev&show_icons=true&theme=dracula)
+![GitHubCard](https://github-readme-stats.vercel.app/api?username=xoesae&show_icons=true&theme=dracula)
